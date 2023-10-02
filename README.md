@@ -4,9 +4,7 @@
 
 This will be your starter code for your web page.
 
-[![GitHub Super-Linter](https://github.com/SHH-ICS/mdl-html-page-HackerMan888/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![GitHub Super-Linter](https://github.com/SHH-ICS/mdl-HTML-page-HackerMan888/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-<!-- textlint-disable -->
 <!-- Ignoring TestLint here because Natural Language checks on URLs dpesn't make sense -- Craik -->
-This site can be found at [https://shh-ics.github.io/mdl-html-page-HackerMan888/](https://shh-ics.github.io/mdl-html-page-HackerMan888/)
-<!-- textlint-enable -->
+This site can be found at [https://shh-ics.github.io/mdl-HTML-page-HackerMan888/](https://shh-ics.github.io/mdl-HTML-page-HackerMan888/)
